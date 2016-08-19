@@ -1,0 +1,28 @@
+name: TestDS
+favicon: null
+layout_spectrum: 0.1118709237780422
+typography_spectrum: 0.11721059051342309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19651837064884603
+  lightness: 0.2507806490175426
+  saturation: 0.5849877202417701
+  rhythmicContrast: 0.18980907648801804
+purpose: []
